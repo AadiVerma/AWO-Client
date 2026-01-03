@@ -1,0 +1,16 @@
+{
+  "name": "awo-client",
+  "version": "1.0.0",
+  "description": "Adaptive Workload Orchestrator Client",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "microbundle": "^0.15.1"
+  }
+}
